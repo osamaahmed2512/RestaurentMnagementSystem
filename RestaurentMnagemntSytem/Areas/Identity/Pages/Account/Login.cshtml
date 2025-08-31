@@ -1,0 +1,65 @@
+﻿@page
+@model LoginModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="register-container">
+    <div class="register-header">
+        <h1>Welcome</h1>
+        <p class="register-subheader">Sign up or sign in to continue</p>
+
+        <div class="register-tabs">
+            <a href="/Identity/Account/Login" class="register-tab active">Login</a>
+            <a href="/Identity/Account/Register" class="register-tab">Sign Up</a>
+        </div>
+    </div>
+
+    <form id="account" method="post">
+        <table class="register-form-table">
+            <tr>
+                <td class="register-label">Email</td>
+            </tr>
+            <tr>
+                <td class="register-input">
+                    <input asp-for="Input.Email" placeholder="Enter your email" />
+                    <span asp-validation-for="Input.Email" class="text-danger"></span>
+                </td>
+            </tr>
+
+            <tr>
+                <td class="register-label">Password</td>
+            </tr>
+            <tr>
+                <td class="register-input">
+                    <input asp-for="Input.Password" placeholder="Enter your password" />
+                    <span asp-validation-for="Input.Password" class="text-danger"></span>
+                </td>
+            </tr>
+
+            <tr>
+                <td class="remember-me">
+                    <label asp-for="Input.RememberMe">
+                        <input class="form-check-input" asp-for="Input.RememberMe" />
+                        @Html.DisplayNameFor(m => m.Input.RememberMe)
+                    </label>
+                </td>
+            </tr>
+        </table>
+
+        <button type="submit" class="register-submit-btn">LOGIN</button>
+
+        <div class="login-links">
+            <p>
+                <a id="forgot-password" asp-page="./ForgotPassword">Forgot your password?</a>
+            </p>
+            <p>
+                <a id="resend-confirmation" asp-page="./ResendEmailConfirmation">Resend email confirmation</a>
+            </p>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

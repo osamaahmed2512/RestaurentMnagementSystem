@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\RestaurentMnagemntSytem\Restaurent.Application\bin\Debug\net8.0\Restaurent.Application.deps.json
+C:\Users\DELL\source\repos\RestaurentMnagemntSytem\Restaurent.Application\bin\Debug\net8.0\Restaurent.Application.dll
+C:\Users\DELL\source\repos\RestaurentMnagemntSytem\Restaurent.Application\bin\Debug\net8.0\Restaurent.Application.pdb
+C:\Users\DELL\source\repos\RestaurentMnagemntSytem\Restaurent.Application\bin\Debug\net8.0\Restaurent.domain.dll
+C:\Users\DELL\source\repos\RestaurentMnagemntSytem\Restaurent.Application\bin\Debug\net8.0\Restaurent.domain.pdb
+C:\Users\DELL\source\repos\RestaurentMnagemntSytem\Restaurent.Application\obj\Debug\net8.0\Restaurent.Application.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\RestaurentMnagemntSytem\Restaurent.Application\obj\Debug\net8.0\Restaurent.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\RestaurentMnagemntSytem\Restaurent.Application\obj\Debug\net8.0\Restaurent.Application.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\RestaurentMnagemntSytem\Restaurent.Application\obj\Debug\net8.0\Restaurent.Application.AssemblyInfo.cs
+C:\Users\DELL\source\repos\RestaurentMnagemntSytem\Restaurent.Application\obj\Debug\net8.0\Restaurent.Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\RestaurentMnagemntSytem\Restaurent.Application\obj\Debug\net8.0\Restaure.B62E23A8.Up2Date
+C:\Users\DELL\source\repos\RestaurentMnagemntSytem\Restaurent.Application\obj\Debug\net8.0\Restaurent.Application.dll
+C:\Users\DELL\source\repos\RestaurentMnagemntSytem\Restaurent.Application\obj\Debug\net8.0\refint\Restaurent.Application.dll
+C:\Users\DELL\source\repos\RestaurentMnagemntSytem\Restaurent.Application\obj\Debug\net8.0\Restaurent.Application.pdb
+C:\Users\DELL\source\repos\RestaurentMnagemntSytem\Restaurent.Application\obj\Debug\net8.0\ref\Restaurent.Application.dll

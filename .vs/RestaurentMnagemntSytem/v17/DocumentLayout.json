@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\RestaurentMnagemntSytem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA81ED91-B423-4D10-A4B8-60F3DC8A8003}|RestaurentMnagemntSytem\\RestaurentMnagemntSytem.View.csproj|c:\\users\\dell\\source\\repos\\restaurentmnagemntsytem\\restaurentmnagemntsytem\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA81ED91-B423-4D10-A4B8-60F3DC8A8003}|RestaurentMnagemntSytem\\RestaurentMnagemntSytem.View.csproj|solutionrelative:restaurentmnagemntsytem\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D07E52A-E736-41B4-9043-A15FD933E14C}|Restaurent.Application\\Restaurent.Application.csproj|c:\\users\\dell\\source\\repos\\restaurentmnagemntsytem\\restaurent.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D07E52A-E736-41B4-9043-A15FD933E14C}|Restaurent.Application\\Restaurent.Application.csproj|solutionrelative:restaurent.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D07E52A-E736-41B4-9043-A15FD933E14C}|Restaurent.Application\\Restaurent.Application.csproj|c:\\users\\dell\\source\\repos\\restaurentmnagemntsytem\\restaurent.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D07E52A-E736-41B4-9043-A15FD933E14C}|Restaurent.Application\\Restaurent.Application.csproj|solutionrelative:restaurent.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA81ED91-B423-4D10-A4B8-60F3DC8A8003}|RestaurentMnagemntSytem\\RestaurentMnagemntSytem.View.csproj|c:\\users\\dell\\source\\repos\\restaurentmnagemntsytem\\restaurentmnagemntsytem\\models\\viewmodel\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA81ED91-B423-4D10-A4B8-60F3DC8A8003}|RestaurentMnagemntSytem\\RestaurentMnagemntSytem.View.csproj|solutionrelative:restaurentmnagemntsytem\\models\\viewmodel\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6687DC9E-315E-4C47-BD3D-E469C97550E0}|Restaurent.domain\\Restaurent.domain.csproj|c:\\users\\dell\\source\\repos\\restaurentmnagemntsytem\\restaurent.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6687DC9E-315E-4C47-BD3D-E469C97550E0}|Restaurent.domain\\Restaurent.domain.csproj|solutionrelative:restaurent.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA81ED91-B423-4D10-A4B8-60F3DC8A8003}|RestaurentMnagemntSytem\\RestaurentMnagemntSytem.View.csproj|c:\\users\\dell\\source\\repos\\restaurentmnagemntsytem\\restaurentmnagemntsytem\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA81ED91-B423-4D10-A4B8-60F3DC8A8003}|RestaurentMnagemntSytem\\RestaurentMnagemntSytem.View.csproj|solutionrelative:restaurentmnagemntsytem\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA81ED91-B423-4D10-A4B8-60F3DC8A8003}|RestaurentMnagemntSytem\\RestaurentMnagemntSytem.View.csproj|c:\\users\\dell\\source\\repos\\restaurentmnagemntsytem\\restaurentmnagemntsytem\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA81ED91-B423-4D10-A4B8-60F3DC8A8003}|RestaurentMnagemntSytem\\RestaurentMnagemntSytem.View.csproj|solutionrelative:restaurentmnagemntsytem\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA81ED91-B423-4D10-A4B8-60F3DC8A8003}|RestaurentMnagemntSytem\\RestaurentMnagemntSytem.View.csproj|c:\\users\\dell\\source\\repos\\restaurentmnagemntsytem\\restaurentmnagemntsytem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA81ED91-B423-4D10-A4B8-60F3DC8A8003}|RestaurentMnagemntSytem\\RestaurentMnagemntSytem.View.csproj|solutionrelative:restaurentmnagemntsytem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA81ED91-B423-4D10-A4B8-60F3DC8A8003}|RestaurentMnagemntSytem\\RestaurentMnagemntSytem.View.csproj|c:\\users\\dell\\source\\repos\\restaurentmnagemntsytem\\restaurentmnagemntsytem\\wwwroot\\css\\tailwind.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CA81ED91-B423-4D10-A4B8-60F3DC8A8003}|RestaurentMnagemntSytem\\RestaurentMnagemntSytem.View.csproj|solutionrelative:restaurentmnagemntsytem\\wwwroot\\css\\tailwind.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA81ED91-B423-4D10-A4B8-60F3DC8A8003}|RestaurentMnagemntSytem\\RestaurentMnagemntSytem.View.csproj|c:\\users\\dell\\source\\repos\\restaurentmnagemntsytem\\restaurentmnagemntsytem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA81ED91-B423-4D10-A4B8-60F3DC8A8003}|RestaurentMnagemntSytem\\RestaurentMnagemntSytem.View.csproj|solutionrelative:restaurentmnagemntsytem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\RestaurentMnagemntSytem\\Restaurent.Application\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Restaurent.Application\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\RestaurentMnagemntSytem\\Restaurent.Application\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Restaurent.Application\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T15:19:01.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\RestaurentMnagemntSytem\\Restaurent.Application\\interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Restaurent.Application\\interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\RestaurentMnagemntSytem\\Restaurent.Application\\interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "Restaurent.Application\\interfaces\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T14:55:18.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\RestaurentMnagemntSytem\\RestaurentMnagemntSytem\\Models\\ViewModel\\CategoryViewModel.cs",
+              "RelativeDocumentMoniker": "RestaurentMnagemntSytem\\Models\\ViewModel\\CategoryViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\RestaurentMnagemntSytem\\RestaurentMnagemntSytem\\Models\\ViewModel\\CategoryViewModel.cs",
+              "RelativeToolTip": "RestaurentMnagemntSytem\\Models\\ViewModel\\CategoryViewModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T14:12:19.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\RestaurentMnagemntSytem\\Restaurent.domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Restaurent.domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\RestaurentMnagemntSytem\\Restaurent.domain\\Entities\\Category.cs",
+              "RelativeToolTip": "Restaurent.domain\\Entities\\Category.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA4wA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T20:47:12.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\RestaurentMnagemntSytem\\RestaurentMnagemntSytem\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "RestaurentMnagemntSytem\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\RestaurentMnagemntSytem\\RestaurentMnagemntSytem\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "RestaurentMnagemntSytem\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAWwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T20:44:38.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\RestaurentMnagemntSytem\\RestaurentMnagemntSytem\\package.json",
+              "RelativeDocumentMoniker": "RestaurentMnagemntSytem\\package.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\RestaurentMnagemntSytem\\RestaurentMnagemntSytem\\package.json",
+              "RelativeToolTip": "RestaurentMnagemntSytem\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-29T19:35:50.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "tailwind.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\RestaurentMnagemntSytem\\RestaurentMnagemntSytem\\wwwroot\\css\\tailwind.css",
+              "RelativeDocumentMoniker": "RestaurentMnagemntSytem\\wwwroot\\css\\tailwind.css",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\RestaurentMnagemntSytem\\RestaurentMnagemntSytem\\wwwroot\\css\\tailwind.css",
+              "RelativeToolTip": "RestaurentMnagemntSytem\\wwwroot\\css\\tailwind.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-29T19:00:50.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\RestaurentMnagemntSytem\\RestaurentMnagemntSytem\\Program.cs",
+              "RelativeDocumentMoniker": "RestaurentMnagemntSytem\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\RestaurentMnagemntSytem\\RestaurentMnagemntSytem\\Program.cs",
+              "RelativeToolTip": "RestaurentMnagemntSytem\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAkwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T18:56:32.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\RestaurentMnagemntSytem\\RestaurentMnagemntSytem\\appsettings.json",
+              "RelativeDocumentMoniker": "RestaurentMnagemntSytem\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\RestaurentMnagemntSytem\\RestaurentMnagemntSytem\\appsettings.json",
+              "RelativeToolTip": "RestaurentMnagemntSytem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-29T18:56:28.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\RestaurentMnagemntSytem\\RestaurentMnagemntSytem\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "RestaurentMnagemntSytem\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\RestaurentMnagemntSytem\\RestaurentMnagemntSytem\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "RestaurentMnagemntSytem\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-29T14:35:11.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

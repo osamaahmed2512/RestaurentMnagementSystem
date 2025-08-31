@@ -1,0 +1,149 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+/* Register Container */
+.register-container {
+    max-width: 500px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background: white;
+    font-family: Arial, sans-serif;
+}
+
+/* Header */
+.register-header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+    .register-header h1 {
+        font-size: 24px;
+        font-weight: bold;
+        margin-bottom: 8px;
+        color: #333;
+    }
+
+.register-subheader {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 24px;
+}
+
+/* Tabs */
+.register-tabs {
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 24px;
+}
+
+.register-tab {
+    padding: 8px 24px;
+    color: #666;
+    text-decoration: none;
+    font-weight: 500;
+    position: relative;
+}
+
+    .register-tab.active {
+        color: #000;
+        font-weight: 600;
+    }
+
+        .register-tab.active::after {
+            content: '';
+            position: absolute;
+            bottom: -1px;
+            left: 0;
+            width: 100%;
+            height: 2px;
+            background: #000;
+        }
+
+/* Form Table */
+.register-form-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.register-label {
+    padding: 8px 0 4px 0;
+    font-weight: 600;
+    font-size: 14px;
+    color: #333;
+}
+
+.register-input input {
+    width: 100%;
+    padding: 8px 0;
+    border: none;
+    border-bottom: 1px solid #ddd;
+    font-size: 14px;
+    margin-bottom: 16px;
+}
+
+    .register-input input:focus {
+        outline: none;
+        border-bottom-color: #000;
+    }
+
+/* Submit Button */
+.register-submit-btn {
+    width: 100%;
+    padding: 12px;
+    background-color: #000;
+    color: white;
+    border: none;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    margin-top: 24px;
+    border-radius: 4px;
+}
+
+/* Footer Links */
+.register-footer {
+    text-align: center;
+    margin-top: 32px;
+    padding-top: 16px;
+    border-top: 1px solid #eee;
+    font-size: 12px;
+}
+
+.register-footer a {
+    color: #666;
+    text-decoration: none;
+    margin: 0 8px;
+}
+
+.register-footer a:hover {
+    text-decoration: underline;
+}
+
+/* Validation Errors */
+.text-danger {
+    font-size: 12px;
+    color: #dc3545;
+    display: block;
+    margin-top: 4px;
+}

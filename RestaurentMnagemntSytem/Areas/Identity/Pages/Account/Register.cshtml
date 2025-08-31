@@ -1,0 +1,99 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+
+<div class="register-container">
+    <div class="register-header">
+        <h1>Welcome</h1>
+        <p class="register-subheader">Sign up or sign in to continue</p>
+
+        <div class="register-tabs">
+            <a href="/Identity/Account/Login" class="register-tab">Login</a>
+            <a href="/Identity/Account/Register" class="register-tab active">Sign Up</a>
+        </div>
+    </div>
+
+    <form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+        <table class="register-form-table">
+            <tr>
+                <td class="register-label">First name</td>
+            </tr>
+            <tr>
+                <td class="register-input">
+                    <input asp-for="Input.FirstName" placeholder="Enter your first name" />
+                    <span asp-validation-for="Input.FirstName" class="text-danger"></span>
+                </td>
+            </tr>
+
+            <tr>
+                <td class="register-label">Last name</td>
+            </tr>
+            <tr>
+                <td class="register-input">
+                    <input asp-for="Input.LastName" placeholder="Enter your last name" />
+                    <span asp-validation-for="Input.LastName" class="text-danger"></span>
+                </td>
+            </tr>
+
+            <tr>
+                <td class="register-label">Email</td>
+            </tr>
+            <tr>
+                <td class="register-input">
+                    <input asp-for="Input.Email" placeholder="Enter your email" />
+                    <span asp-validation-for="Input.Email" class="text-danger"></span>
+                </td>
+            </tr>
+
+            <tr>
+                <td class="register-label">Phone</td>
+            </tr>
+            <tr>
+                <td class="register-input">
+                    <input asp-for="Input.PhoneNumber" placeholder="Enter your phone" />
+                    <span asp-validation-for="Input.PhoneNumber" class="text-danger"></span>
+                </td>
+            </tr>
+
+            <tr>
+                <td class="register-label">Address</td>
+            </tr>
+            <tr>
+                <td class="register-input">
+                    <input asp-for="Input.Address" placeholder="Enter your address" />
+                    <span asp-validation-for="Input.Address" class="text-danger"></span>
+                </td>
+            </tr>
+
+            <tr>
+                <td class="register-label">Password</td>
+            </tr>
+            <tr>
+                <td class="register-input">
+                    <input asp-for="Input.Password" placeholder="Enter password" />
+                    <span asp-validation-for="Input.Password" class="text-danger"></span>
+                </td>
+            </tr>
+
+            <tr>
+                <td class="register-label">Confirm Password</td>
+            </tr>
+            <tr>
+                <td class="register-input">
+                    <input asp-for="Input.ConfirmPassword" placeholder="Re-enter password" />
+                    <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+                </td>
+            </tr>
+        </table>
+
+        <button type="submit" class="register-submit-btn">SIGN UP</button>
+    </form>
+
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

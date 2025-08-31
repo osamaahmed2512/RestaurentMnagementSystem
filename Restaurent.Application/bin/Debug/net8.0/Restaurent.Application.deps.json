@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Restaurent.Application/1.0.0": {
+        "dependencies": {
+          "Restaurent.domain": "1.0.0"
+        },
+        "runtime": {
+          "Restaurent.Application.dll": {}
+        }
+      },
+      "Restaurent.domain/1.0.0": {
+        "runtime": {
+          "Restaurent.domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Restaurent.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Restaurent.domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
